@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <PackageId>Protocol Handler Console</PackageId>
+    <Authors>Richard Richards</Authors>
+    <Company>QIQO Software</Company>
+    <Product>Protocol Handler Console</Product>
+    <Copyright>2019</Copyright>
+    <Description>Protocol Handler Console</Description>
+  </PropertyGroup>
+
+</Project>
